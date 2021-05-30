@@ -48,10 +48,10 @@
             android:id="@+id/name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ALA V V N L MOUNIKA"
+            android:text="Yogesh"
+            android:textColor="#4267B2"
             android:textSize="15sp"
             android:textStyle="bold"
-            android:textColor="#4267B2"
             android:visibility="invisible"></TextView>
     </LinearLayout>
 
